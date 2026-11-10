@@ -1,0 +1,28 @@
+{
+  "name": "swasthya-connect",
+  "version": "1.0.0",
+  "description": "Swasthya Connect — Community Healthcare Access Platform (सामुदायिक आरोग्य मंच)",
+  "private": true,
+  "scripts": {
+    "dev": "python server.py",
+    "start": "python server.py",
+    "serve": "python server.py"
+  },
+  "keywords": [
+    "healthcare",
+    "gap-analysis",
+    "public-health",
+    "community-health",
+    "leaflet",
+    "chartjs",
+    "india",
+    "maharashtra"
+  ],
+  "author": "Antigravity Pair Programmer",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "pptxgenjs": "^4.0.1"
+  }
+}
